@@ -1,3 +1,7 @@
+# Attribution 
+
+All data taken from Evelina Gabasova. (2016). Star Wars social network (Version 1.0.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1411479
+
 # Star Wars social networks
 
 Contents of the files are the following:
